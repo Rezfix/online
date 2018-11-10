@@ -12,7 +12,7 @@ HeyIm.login(process.env.BOT_TOKEN);
 const AbuA = new Discord.Client();
 
 AbuA.on('ready', () => {
-   AbuA.user.setGame('ابغا iPhone xs :cry:','https://www.twitch.tv/Rezfix');
+   AbuA.user.setGame('ابغا iPhone xs 😢','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('AbuA Online')
     console.log('---------------')
