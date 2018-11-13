@@ -12,7 +12,7 @@ Reuss.login(process.env.REUSS)
 const D7omz = new Discord.Client();
 
 D7omz.on('ready', () => {
-   D7omz.user.setGame('مَآْ عَشِقْتُ تُرَآْبَ آَرْضٍ مِثْلَ تُرَآْبُ آْلْسُّعُوْدِيَّةُ','https://www.twitch.tv/Rezfix');
+   D7omz.user.setGame('وَجَآْءَتْ سَكَرَةُ آْلْمَوْتَ بِآْلْحَقُّ 🍃','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('D7omz Online')
     console.log('---------------')
